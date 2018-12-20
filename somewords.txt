@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
 today is 12/30
 
 ss
+=======
+?
+no
+add some words
+some different
+?
+>>>>>>> dev
