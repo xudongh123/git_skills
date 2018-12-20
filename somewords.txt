@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 today is 12/30
 
 ss
@@ -8,3 +10,10 @@ some different
 ?
 
 merge test
+=======
+add some words
+>>>>>>> parent of 4749394... Update somewords.txt
+=======
+add some words
+some different
+>>>>>>> parent of 26296c9... Update somewords.txt
